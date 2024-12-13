@@ -39,5 +39,15 @@ This project focuses on classifying audio data in MFCC, using Convolutional Neur
   
 
 
-   
+
+# Contributing 👩‍💻
+- Shahad Adel
+- Sana Araj
+- Sara Thaer
+- Deem Alrashidi
+- Shahad Khalid
+- Reem Fouad
+
+# Acknowledgments ✨
+we would like to thank DR Nawaf Alharbi for his guidance in this project. 
 
